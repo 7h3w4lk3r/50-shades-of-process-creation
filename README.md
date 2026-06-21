@@ -1,0 +1,2 @@
+- Code samples for blog post [50 shades of process creation](https://github.com/7h3w4lk3r/50-shades-of-process-creation)  
+- Developed and tested on Windows 10 x64 using Visual Studio 2026.  
