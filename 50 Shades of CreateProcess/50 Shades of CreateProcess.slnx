@@ -1,0 +1,24 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1.CreateProcess/1.CreateProcess.vcxproj" Id="76f2b50a-c2b7-4229-ac2a-8e9139384a8d" />
+  <Project Path="12.FileProtocolHandler/12.FileProtocolHandler.vcxproj" Id="c91aa4e0-67f8-4700-9a2e-086bc4651df0" />
+  <Project Path="13.RunHTMLApplication/13.RunHTMLApplication.vcxproj" Id="16b56c97-9294-419b-82fc-d6597a3ee29c" />
+  <Project Path="14.LaunchApplication/14.LaunchApplication.vcxproj" Id="50e5d52e-fc49-4788-8f52-fe0a96fbe755" />
+  <Project Path="15.RouteTheCall_zipfldr.dll/15.RouteTheCall_zipfldr.dll.vcxproj" Id="47baec78-9d39-474c-b1dc-5ebb245b0c9e" />
+  <Project Path="16.NtCreateUserProcess/16.NtCreateUserProcess.vcxproj" Id="9774a720-cd6f-4335-aa3d-e80313801227" />
+  <Project Path="18.IHxHelpPaneServer/18.IHxHelpPaneServer.vcxproj" Id="6b7f9df0-0f16-46dd-a7ea-4905e8c8445f" />
+  <Project Path="19.IHxInteractiveUser/19.IHxInteractiveUser.vcxproj" Id="e46bf573-0a0d-43b5-aef4-627f0cb36e05" />
+  <Project Path="2.ShellExecute/2.ShellExecute.vcxproj" Id="4d14eb7c-f34c-454b-bf95-1c7e3e1cbb76" />
+  <Project Path="2.ShellExecuteEx/2.ShellExecuteEx.vcxproj" Id="109f8a2c-2526-466d-a317-3e22b1d6d649" />
+  <Project Path="20.Win32_Process_Create/20.Win32_Process_Create.vcxproj" Id="d7b4bf74-9cdd-4a71-9548-c02215f9bc3a" />
+  <Project Path="21.CLSID_ShellWindows/21.CLSID_ShellWindows.vcxproj" Id="25fdc413-526d-4239-84ab-5367ad1f7b77" />
+  <Project Path="4.CreateProcessAsUser/4.CreateProcessAsUser.vcxproj" Id="dad44380-f4e5-4079-bf6f-ae720c751d53" />
+  <Project Path="5.CreateProcessWithLogon/5.CreateProcessWithLogon.vcxproj" Id="8e3283e5-12ec-4989-b955-bb208e848937" />
+  <Project Path="6.CreateProcessWithToken/6.CreateProcessWithToken.vcxproj" Id="9c4e8a45-0b7a-40f1-bc3c-f0f075acb9d1" />
+  <Project Path="7.ShellExecuteW/7.ShellExecuteW.vcxproj" Id="3f96dd56-fed0-4fe4-94da-83e866d9101f" />
+  <Project Path="8.RunAsNewUser_RunDLLW/8.RunAsNewUser_RunDLLW.vcxproj" Id="1cff5fb9-0f31-44b2-b65c-013cf7f69f96" />
+  <Project Path="9.OpenURL_ieframe.dll/9.OpenURL_ieframe.dll.vcxproj" Id="e0bdf18c-8bb0-4bdd-bba7-96c5ffae4955" />
+</Solution>
